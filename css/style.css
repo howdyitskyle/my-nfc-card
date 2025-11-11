@@ -1,0 +1,39 @@
+body {
+            font-family: sans-serif;
+            line-height: 1.6;
+            margin: 2em;
+      }
+
+.container {
+            display:flex;
+            max-width: 800px;
+            margin: 0 auto;
+      }
+
+.column-left {
+            width: 80%;
+            padding: 1em;
+}
+
+.column-right {
+            width: 20%;
+            padding: 2em;
+}
+
+.footer {
+            border-top: .1em solid #CCC;
+            margin-top: 1em;
+        }
+
+/* Media Queries for Responsiveness */
+@media (max-width: 600px) {
+.container {
+            width: 95%;
+            flex-direction: column;
+        }
+
+.container ul {
+            padding-left: 1em;
+            }
+}
+
