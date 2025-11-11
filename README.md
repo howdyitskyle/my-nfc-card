@@ -20,7 +20,6 @@ This repository contains the source code of an HTML page, styled using basic CSS
 ```
 
 ```
-```
 // Your VCard Data
 var vcardData = `BEGIN:VCARD\n`+
                 `VERSION:3.0\n` +
@@ -34,7 +33,7 @@ var vcardData = `BEGIN:VCARD\n`+
                 `END:VCARD`;
 ```
 ```
-```
+
 ```
 
 ## Dependencies 
