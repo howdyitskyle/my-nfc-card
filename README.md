@@ -30,15 +30,13 @@ var vcardData = `BEGIN:VCARD\n`+
                 `EMAIL;TYPE=PREF,INTERNET:forrestgump@example.com\n` +
                 `END:VCARD`;
 ```
-<<<<<<< HEAD
-=======
+```
 
 5. To update the filename of the vCard attached to the download button, edit the corresponding line(s) in `js/script.js`
 
 ```
  element.setAttribute('download', 'contact.vcf');
 ```
->>>>>>> b9f4d0a (update README.md)
 
 ## Dependencies 
 - [qrcode.js](https://github.com/davidshimjs/qrcodejs): A simple JavaScript library for generating QR codes in a variety of formats. *included in the js directory*
