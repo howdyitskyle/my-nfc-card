@@ -16,8 +16,6 @@ This repository contains the source code of an HTML page, styled using basic CSS
 2. Open the `index.html` file in any web browser to view the portfolio page.
 3. Modify the HTML, CSS, or JavaScript files according to your needs.
 4. To update the QR Code with your contact information, edit the corresponding line(s) in `js/script.js` file.
-```
-
 
 ```
 // Your VCard Data
@@ -31,7 +29,6 @@ var vcardData = `BEGIN:VCARD\n`+
                 `ADR;TYPE=WORK:;;100 Waters Edge;Baytown;LA;30314;United States of America\n` +
                 `EMAIL;TYPE=PREF,INTERNET:forrestgump@example.com\n` +
                 `END:VCARD`;
-```
 ```
 
 ## Dependencies 
