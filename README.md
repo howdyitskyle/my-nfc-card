@@ -18,7 +18,6 @@ This repository contains the source code of an HTML page, styled using basic CSS
 4. To update the QR Code with your contact information, edit the corresponding line(s) in `js/script.js` file.
 
 ```
-// Your VCard Data
 var vcardData = `BEGIN:VCARD\n`+
                 `VERSION:3.0\n` +
                 `N:Forrest Gump\n` +
