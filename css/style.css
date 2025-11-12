@@ -35,7 +35,9 @@ body {
 .container ul {
             padding-left: 1em;
             }
-}
+            
 .column-right {
             visibility: hidden;
+}
+            
 }
