@@ -36,4 +36,6 @@ body {
             padding-left: 1em;
             }
 }
-
+.column-right {
+            visibility: hidden;
+}
