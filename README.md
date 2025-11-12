@@ -4,6 +4,8 @@ Generic Profile Page with QR Code for use with a Digital Business Card
 ## Overview
 This repository contains the source code of an HTML page, styled using basic CSS, that serves as a profile page. It includes essential information about the user and provides contact details in a form of a QR Code which can be scanned to get these details easily without needing to manually look at the page. 
 
+[Demo Page](https://howdyitskyle.github.io/my-nfc-card)
+
 ## Features
 - **About Me**: A brief introduction about the user, highlighting their skills, interests, and passion for what they do.
 - **Skills**: List of key technical skills that users are proficient in.
