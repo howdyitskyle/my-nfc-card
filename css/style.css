@@ -5,7 +5,8 @@ body {
       }
 
 #downloadBtn {
-            color: #0066CC;
+            background-color: #0066CC;
+            color: #FFF;
             padding: .5em 1em;
       }
 
