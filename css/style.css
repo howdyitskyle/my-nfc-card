@@ -7,6 +7,7 @@ body {
 #downloadBtn {
             background-color: #0066CC;
             color: #FFF;
+            cursor: pointer;
             border: none;
             border-radius: 1em;
             padding: .5em 1em;
